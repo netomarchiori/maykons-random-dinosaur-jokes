@@ -35,7 +35,7 @@ h3 {
 }
 
 .dino {
- position: absolute;
+ position: relative;
 }
 
 .dino img{
