@@ -75,7 +75,7 @@ $(document).ready(function(){
     var randomAnswer = Math.floor(randomNumber * this.listofanswers.length);
     var joke = this.listofanswers[randomAnswer];
     
-    $("#the_dino").effect( "shake" );
+    $("#the_dino").effect( "bounce" );
     $("#question").text( joke[0] );
     $("#answer").text( joke[1]);
     $("#refreshButton").text('ANOTHER ONE?');
