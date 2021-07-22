@@ -84,7 +84,7 @@ $(document).ready(function(){
         $("#refreshButton").fadeIn(300);
       });
     });
-    $("#the_dino").attr("src", "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/11727/tyrannosaurus-dinosaur-clipart-md.png");
+    $("#the_dino").attr("src", "trex.png");
 
     //console.log(answer);
   };
